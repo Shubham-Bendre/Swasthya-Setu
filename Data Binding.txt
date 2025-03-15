@@ -1,0 +1,5 @@
+Name -> employee.name
+Region -> employee.Breed
+Age (Years) -> employee.Age
+Weight (kg) -> employee.Weight
+Health Issues -> employee.Defect
